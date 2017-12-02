@@ -7,6 +7,15 @@
 
 ![Dont use it yet](http://tclhost.com/lBbKSec.gif)
 
+# Todos:
+
+* Add VPC's
+* Add Cloudfront and S3 for Media Storage
+* Add SES
+* Add Worker for Crons
+* Add Job to get SQL Backups. We already have RDS Snapshots, but it might be useful to have another SQL Dump from time to time.
+* Add Cloudwatch Metrics
+
 # Magento 2 AWS Terraform
 
 Have you ever been annoyed by setting up a new server and the amount of
